@@ -16,6 +16,10 @@ Atualmente so criei 3 aplicativos que estão de graça pra quem quiser baixar, a
 - Player de video atualizado
 - Mensagens privadas adicionada
 - Sistema de cadastro adicionado
+- Comunidade Criada
+- Tema Unificado (pode mudar o tempo no butão Menu)
+- Correção nas capas de Jogos, Apps e Parceiros
+- Correção no contador de visualização do Forum
 
 
 
